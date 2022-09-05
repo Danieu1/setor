@@ -14,6 +14,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ## 🎁 Expressões de gratidão
 *Deus pela opurnidade de aprender 
+ Amigos e colegas:
 *Luan Luiz Magioli Barros;
 *Yuri Felipe;
 *Priscilla;
