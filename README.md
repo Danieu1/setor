@@ -12,6 +12,8 @@ Mencione as ferramentas que você usou para criar seu projeto
 ## ✒️ Autores
 * **Danieu1** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/Danieu1)
 
+![alt text](diagrama.jpeg)
+
 ## 🎁 Expressões de gratidão
 *Deus pela opurnidade de aprender 
  Amigos e colegas:
